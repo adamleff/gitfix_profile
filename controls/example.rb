@@ -2,8 +2,8 @@
 # copyright: 2017, The Authors
 
 control 'on master' do
-  title 'on master'
-  desc 'on master'
+  title 'on v1'
+  desc 'on v1'
   impact 1.0
   describe 1 do
     it { should cmp 1 }
