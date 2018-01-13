@@ -2,7 +2,7 @@
 # copyright: 2017, The Authors
 
 control 'on master' do
-  name 'on master'
+  title 'on master'
   desc 'on master'
   impact 1.0
   describe 1 do
